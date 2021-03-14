@@ -22,6 +22,6 @@ Our model display an 73% perfomance. Which is sufficit for the prupose of this a
 
 After this founding, we decided to group applicants with <4 application together, that way reduced the outliers. 
 
-Finally our optomized model **increase its preforming with a result of 79% accuracy. **
+Finally our optomized model **increase its preforming with a result of 79% accuracy.**
 
 <ims src="https://github.com/carolinamedina26/Neural_Network_Charity_Analysis/blob/main/Resources/optimaze_model_results.png">
