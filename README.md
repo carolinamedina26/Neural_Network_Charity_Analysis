@@ -24,3 +24,5 @@ After running our model with more data, **its performance increased with a resul
 
 <ims src="https://github.com/carolinamedina26/Neural_Network_Charity_Analysis/blob/main/Resources/optimaze_model_results.png">
   
+# Summary
+Our first model had a 73% acuuracy, after carefully analyzing the entire dataframe, we optimized our model to a 79% accuracy. Another model that can be used is Random Forest, since it can handle outliers. 
